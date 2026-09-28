@@ -33,9 +33,7 @@
 - [Usage Guide](#-usage-guide)
 - [How the System Works](#-how-the-system-works)
 - [Security Features](#-security-features)
-- [Screenshots](#-screenshots)
 - [Troubleshooting](#-troubleshooting)
-- [Future Enhancements](#-future-enhancements)
 - [Learning Outcomes](#-learning-outcomes)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -1300,82 +1298,6 @@ Order Items
 Food Items
 ```
 
----
-
-# 📸 Screenshots
-
-Add screenshots of the actual application to this section after uploading them to the repository.
-
-## Login Page
-
-_Add your login page screenshot here._
-
-```text
-![Login Page](screenshots/login.png)
-```
-
----
-
-## Student Registration
-
-_Add your registration screenshot here._
-
-```text
-![Registration Page](screenshots/register.png)
-```
-
----
-
-## Food Menu
-
-_Add your food menu screenshot here._
-
-```text
-![Food Menu](screenshots/menu.png)
-```
-
----
-
-## Order Page
-
-_Add your order page screenshot here._
-
-```text
-![Order Page](screenshots/order.png)
-```
-
----
-
-## Order Confirmation
-
-_Add your order-success screenshot here._
-
-```text
-![Order Confirmation](screenshots/order-success.png)
-```
-
----
-
-## Admin Dashboard
-
-_Add your admin dashboard screenshot here._
-
-```text
-![Admin Dashboard](screenshots/admin.png)
-```
-
----
-
-## Admin Orders
-
-_Add your admin orders screenshot here._
-
-```text
-![Admin Orders](screenshots/admin-orders.png)
-```
-
----
-
 # 🐛 Troubleshooting
 
 ## Issue: Tomcat Does Not Start
@@ -1498,32 +1420,6 @@ The Smart Canteen Ordering & Management System provides the following advantages
 
 ---
 
-# 🔮 Future Enhancements
-
-The following features can be added in future versions:
-
-- Online payment integration
-- UPI payment integration
-- QR-code-based pickup
-- Email notifications
-- SMS notifications
-- Food search and filtering
-- Shopping cart
-- Multiple food items in a single order
-- Order cancellation
-- Customer feedback
-- Food ratings and reviews
-- Advanced admin dashboard
-- Sales and order analytics
-- Daily and monthly reports
-- Mobile application
-- Password hashing
-- Environment-based database configuration
-- Improved authentication and authorization
-- Cloud deployment
-
----
-
 # 🎓 Learning Outcomes
 
 This project provided practical experience in:
@@ -1590,7 +1486,8 @@ This project is developed for **educational and academic purposes**.
 
 # 👨‍💻 Author
 
-**Nisha Sakthivel**
+**Nisha S**
+nishasakthivel30gmail.com
 
 Computer Science Engineering Student
 
@@ -1605,7 +1502,7 @@ Computer Science Engineering Student
 ### GitHub
 
 ```text
-https://github.com/YOUR-USERNAME/smart-canteen-management-system
+https://github.com/nishasakthivel30/smart-canteen-management-system
 ```
 
 ---
